@@ -2,7 +2,7 @@
  * grunt-inline
  * https://github.com/chyingp/grunt-inline
  *
- * Copyright (c) 2014 Auguest G. casper & IMWEB TEAM
+ * Copyright (c) 2015 Auguest G. casper & IMWEB TEAM
  */
 
 'use strict';
